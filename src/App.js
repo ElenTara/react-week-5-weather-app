@@ -12,7 +12,7 @@ export default function App() {
           <a
             href="https://github.com/ElenTara/react-week-5-weather-app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>
