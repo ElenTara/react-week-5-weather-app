@@ -5,7 +5,6 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Weather App</h1>
         <Weather defaultCity="Odessa" />
         <footer>
           This project was coded by Elena Tarasenko and is{" "}
@@ -15,6 +14,15 @@ export default function App() {
             rel="noopener noreferrer"
           >
             open-sourced on GitHub
+          </a>{" "}
+          and hosted on
+          <a
+            href="https://vermillion-flan-52a3e0.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {" "}
+            Netlify
           </a>
         </footer>
       </div>
