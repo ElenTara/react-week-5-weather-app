@@ -2,11 +2,15 @@
   background: #fff;
   border: 1px solid #dadde1;
   border-radius: 10px;
-  box-shadow: 0 30px 50px rgb(65 50 100 / 8%);
+  box-shadow: 10px 10px 50px rgb(65 50 100 / 25%);
   color: rgb(135, 135, 135);
   font-family: arial, sans-serif;
   padding: 16px;
 }
+/*.Weather .btn {
+  background: #f65282;
+}
+*/
 .Weather h1 {
   color: #f65282;
   font-size: 42px;
